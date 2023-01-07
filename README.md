@@ -1,4 +1,4 @@
-#STEPBible
+STEPBible
 
 test
 
