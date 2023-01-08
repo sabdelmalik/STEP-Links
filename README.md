@@ -5,8 +5,8 @@ STEP is a free, high-quality, portable web-based, online and offline Bible study
 [STEPBible](https://www.stepbible.org) is a Charitable Incorporated Organisation registered in the UK #1193952 run by Bible scholars and computer enthusiasts, as well as members who help to decide priorities.   
  
 # Technical brief
-Developed with Eclipse in Java SE, HTML, JavaScript using JQuery and JQuery UI, source controlled in GitHub, tracked with JIRA, built with Jenkins and code reviewed with Crucible.
-### [It is documented in Confluence](https://stepweb.atlassian.net/wiki/spaces/TYNSTEP/pages)
+Developed with Eclipse in Java SE, HTML, JavaScript using JQuery and JQuery UI, source controlled in GitHub, tracked with JIRA, built with Jenkins and code reviewed with Crucible.<br>
+[It is documented in Confluence](https://stepweb.atlassian.net/wiki/spaces/TYNSTEP/pages)
 
 
 
