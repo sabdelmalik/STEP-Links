@@ -1,4 +1,3 @@
-# STEPBible
 
 [See STEPBible project in action](https://www.stepbible.org)
 
