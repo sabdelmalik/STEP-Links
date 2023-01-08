@@ -1,4 +1,4 @@
-# STEPBible STEP (BSD-3-Clause license)
+# STEPBible STEP
 STEP is a free, high-quality, portable web-based, online and offline Bible study tool, comprising many versions across hundreds of languages, with many different viewing options to ease personal study.
 
 # [About STEPBible](https://www.stepbible.org)  
