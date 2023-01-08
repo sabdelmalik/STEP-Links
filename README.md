@@ -1,4 +1,4 @@
-# STEPBible Data Repository  **CC BY 4.0** 
+# STEPBible STEP Code 
 
 [See STEPBible project in action](https://www.stepbible.org)
 
