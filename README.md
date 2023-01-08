@@ -1,4 +1,4 @@
-# STEPBible STEP Code 
+# STEPBible STEP Code (BSD-3-Clause license)
 
 [See STEPBible project in action](https://www.stepbible.org)
 
