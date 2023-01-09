@@ -4,10 +4,14 @@
 # STEP
 STEP is a free, high-quality, portable web-based, online and offline Bible study tool comprising many versions across hundreds of languages, with many different viewing options to ease personal study.
 
- 
+`#0969DA` 
 # Technical brief
-Step is code is developed maily in Jave for the server side, and HTML and JavaScript. the following tools, frameworks and libraries are used by the project:
-Intellij Idea or Eclips 
+Step is code is developed maily in Jave for the server side, and HTML and JavaScript. the following tools, technologies, frameworks and libraries are used by the project:<br>
+** Development Environmet: **<br>
+  Intellij Idea or Eclipse
+Frontend:<br>
+  
+
 
 
 source controlled in GitHub, tracked with JIRA, built with Jenkins and code reviewed with Crucible.<br>
