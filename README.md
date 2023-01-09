@@ -25,7 +25,7 @@ The following tools, technologies, frameworks and libraries are used by the proj
 - jackson *codehaus* (for processing JSON)
 - junit (for uint test)
 - mockito (for testing)
-- jasypt (for incryption)
+- jasypt (for encryption)
 - yammer metrics (for application metrics)
 - SLF4J (for logging)
 
