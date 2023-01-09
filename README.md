@@ -33,8 +33,8 @@ Step is code is developed maily in Jave for the server side, and HTML and JavaSc
 # [Licences](https://www.stepbible.org/ug/copyrights-licences.html)
 
 # Java Code Documentation
-- [STEP core docs](https://github.com/sabdelmalik/STEP-Links/tree/STEP-Link-Pages/step-core-docs/)
-- [STEP tools docs](https://github.com/sabdelmalik/STEP-Links/tree/STEP-Link-Pages/step-tools-docs/)
+- [STEP core docs](./step-core-docs/)
+- [STEP tools docs](./step-tools-docs/)
 
 
 
