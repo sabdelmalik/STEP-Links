@@ -9,7 +9,7 @@ Step is code is developed maily in Jave for the server side, and HTML and JavaSc
 **Development Environmet:**<br>
 - Intellij Idea
   
-**Frontend:**<br>
+**Frontend:**
 - HTML 5
 - Javascript
 - JQuery
