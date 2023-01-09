@@ -1,7 +1,7 @@
-# <b style='color:#17758f'>About STEPBible</b>
+# About STEPBible
 [STEPBible](https://www.stepbible.org) is a Charitable Incorporated Organisation registered in the UK #1193952 run by Bible scholars and computer enthusiasts, as well as members who help to decide priorities.   
 
-# ![STEP](./step.svg)
+# ![[STEP](./step.svg)](https://www.stepbible.org)
 STEP is a free, high-quality, portable web-based, online and offline Bible study tool comprising many versions across hundreds of languages, with many different viewing options to ease personal study.
 
 # Technical brief
