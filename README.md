@@ -16,7 +16,7 @@ Step is code is developed maily in Jave for the server side, and HTML and JavaSc
 - JQuery UI
 - Selenium (for testing)
 
-**Backend**
+**Backend:**
 - Apache Tomcat® (Web Server)
 - Apache Tomcat® Embedded (for STEP Desktop)
 - Apache Lucene (for indexing and search)
