@@ -1,7 +1,7 @@
 # About STEPBible
 [STEPBible](https://www.stepbible.org) is a Charitable Incorporated Organisation registered in the UK #1193952 run by Bible scholars and computer enthusiasts, as well as members who help to decide priorities.   
 
-# ![STEP](./step.svg)(https://www.stepbible.org)
+# ![STEP](./step.svg)
 STEP is a free, high-quality, portable web-based, online and offline Bible study tool comprising many versions across hundreds of languages, with many different viewing options to ease personal study.
 
 # Technical brief
@@ -10,7 +10,7 @@ Step is code is developed maily in Jave for the server side, and HTML and JavaSc
 - Intellij Idea
   
 **Frontend:**<br>
-- HTML 5 ??
+- HTML 5
 - Javascript
 - JQuery
 - JQuery UI
@@ -30,11 +30,11 @@ Step is code is developed maily in Jave for the server side, and HTML and JavaSc
 
 # [Detailed Documentatio](https://stepweb.atlassian.net/wiki/spaces/TYNSTEP/pages)
 
-# Java code documentation
-- [STEP core docs](./step-core-docs/)
-- [STEP tools docs](./step-tools-docs/)
+# [Licences](https://www.stepbible.org/ug/copyrights-licences.html)
 
-# Licences
-[For licences see https://www.stepbible.org/ug/copyrights-licences.html](https://www.stepbible.org/ug/copyrights-licences.html)
+# Java code documentation
+- [STEP core docs](https://github.com/sabdelmalik/STEP-Links/tree/STEP-Link-Pages/step-core-docs/)
+- [STEP tools docs](https://github.com/sabdelmalik/STEP-Links/tree/STEP-Link-Pages/step-tools-docs/)
+
 
 
