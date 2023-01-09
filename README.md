@@ -28,11 +28,11 @@ Step is code is developed maily in Jave for the server side, and HTML and JavaSc
 - yammer metrics (for application metrics)
 - SLF4J (for logging)
 
-# [Detailed Documentatio](https://stepweb.atlassian.net/wiki/spaces/TYNSTEP/pages)
+# [Detailed Documentation](https://stepweb.atlassian.net/wiki/spaces/TYNSTEP/pages)
 
 # [Licences](https://www.stepbible.org/ug/copyrights-licences.html)
 
-# Java code documentation
+# Java Code Documentation
 - [STEP core docs](https://github.com/sabdelmalik/STEP-Links/tree/STEP-Link-Pages/step-core-docs/)
 - [STEP tools docs](https://github.com/sabdelmalik/STEP-Links/tree/STEP-Link-Pages/step-tools-docs/)
 
