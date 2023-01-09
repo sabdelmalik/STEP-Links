@@ -4,7 +4,7 @@
 # ![STEP](./step.svg)
 STEP is a free, high-quality, portable web-based, online and offline Bible study tool comprising many versions across hundreds of languages, with many different viewing options to ease personal study.
 
-`#0969DA` 
+$${\color{green}Green}$$ 
 # Technical brief
 Step is code is developed maily in Jave for the server side, and HTML and JavaScript. the following tools, technologies, frameworks and libraries are used by the project:<br>
 **Development Environmet:**<br>
