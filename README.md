@@ -7,26 +7,34 @@ STEP is a free, high-quality, portable web-based, online and offline Bible study
 # Technical brief
 Step is code is developed maily in Jave for the server side, and HTML and JavaScript. the following tools, technologies, frameworks and libraries are used by the project:<br>
 **Development Environmet:**<br>
-  Intellij Idea or Eclipse
-Frontend:<br>
+- Intellij Idea
   
+**Frontend:**<br>
+- HTML 5 ??
+- Javascript
+- JQuery
+- JQuery UI
+- Selenium (for testing)
 
+**Backend**
+- Apache Tomcat® (Web Server)
+- Apache Tomcat® Embedded (for STEP Desktop)
+- Apache Lucene (for indexing and search)
+- Google Guice (for dependency injection)
+- jackson *codehaus* (for processing JSON)
+- junit (for uint test)
+- mockito (for testing)
+- jasypt (for incryption)
+- yammer metrics (for application metrics)
+- SLF4J (for logging)
 
+# [Detailed Documentatio](https://stepweb.atlassian.net/wiki/spaces/TYNSTEP/pages)
 
-source controlled in GitHub, tracked with JIRA, built with Jenkins and code reviewed with Crucible.<br>
-[It is documented in Confluence](https://stepweb.atlassian.net/wiki/spaces/TYNSTEP/pages)
+# Java code documentation
+- [STEP core docs](./step-core-docs/)
+- [STEP tools docs](./step-tools-docs/)
 
-
-
-
-[See STEPBible project in action](https://www.stepbible.org)
-
-[STEP core docs](./step-core-docs/)
-
-[STEP tools docs](./step-tools-docs/)
-
-[Know more about STEPBible Development](https://stepweb.atlassian.net/wiki/spaces/TYNSTEP/pages)
-
+# Licences
 [For licences see https://www.stepbible.org/ug/copyrights-licences.html](https://www.stepbible.org/ug/copyrights-licences.html)
 
 
