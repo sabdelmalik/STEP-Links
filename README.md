@@ -7,7 +7,7 @@ STEP is a free, high-quality, portable web-based, online and offline Bible study
 # Technical brief
 Step code is developed mainly in Java for the server side, and HTML and JavaScript for the Browser side.<br>
 The following tools, technologies, frameworks and libraries are used by the project:<br>
-**Development Environmet:**<br>
+**Development Environment:**<br>
 - Intellij Idea
   
 **Frontend:**
