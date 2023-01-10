@@ -33,9 +33,9 @@ The following tools, technologies, frameworks and libraries are used by the proj
 
 # [Licences](https://www.stepbible.org/ug/copyrights-licences.html)
 
-# Java Code Documentation
-- [STEP core docs](./step-core-docs/)
-- [STEP tools docs](./step-tools-docs/)
+# Java Code API Documentation
+- [step.core API documentation](./step-core-docs/)
+- [step.tools API documentation](./step-tools-docs/)
 
 
 
